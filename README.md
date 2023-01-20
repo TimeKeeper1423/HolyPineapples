@@ -1,21 +1,10 @@
-# Discord Bot Website Template (landing page only)
-
-Here there is only a landing page, not complete like a dashboard, or other pages.
+# Holy Pineapples site
 
 You can change every word in the html file (change the text and your bot name in index.html)
 
 You can also use this landing page for other purposes, such as a personal portfolio and so on.
 
 [**PREVIEW**](#preview)
-
-# Installation
-just clone or download or fork the repo and open index.html
-
-```cli
-git clone https://github.com/JastinXyz/discord-bot-landing-page-web
-```
-
-Replace all required text in index.html
 
 # Built with
 - [Bulma](https://bulma.io) - the modern CSS framework that just works.
